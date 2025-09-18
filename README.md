@@ -7,14 +7,10 @@
 
 ## 🚀 About Me
 
-*"Learning step by step—building small but practical tools to master fundamentals before tackling real-world challenges. My philosophy: start simple, stay consistent, and grow steadily."*
+I’m the kind of person who likes to tinker—writing Python scripts, building small CLI tools, and breaking things just to see how they work.
+Right now I’m diving into cryptography, networking, Linux, and Git—not chasing buzzwords, just sharpening the basics.
 
-- 🐍 Python enthusiast (CLI apps, encryption, networking)  
-- 🔑 Exploring cryptography (AES, RSA, password hashing)  
-- 🌐 Networking basics (sockets, port scanning)  
-- 🐧 Linux learner & CLI workflow  
-- 🗂️ Git/GitHub for version control & collaboration  
-
+I believe solid skills grow from curiosity, patience, and a lot of trial and error. Step by step, project by project.
 ---
 
 ## 🛠️ Skills
