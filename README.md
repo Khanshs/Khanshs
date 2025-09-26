@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I’m the kind of person who likes to tinker—writing Python scripts, building small CLI tools, and breaking things just to see how they work.
 Right now I’m diving into cryptography, networking, Linux, and Git—not chasing buzzwords, just sharpening the basics.
