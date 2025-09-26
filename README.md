@@ -26,18 +26,6 @@ I believe solid skills grow from curiosity, patience, and a lot of trial and err
 
 ---
 
-## 🌟 Featured Projects
-
-### 🔐 [Encrypted Archiver](https://github.com/Khanshs/encrypted-archiver)  
-CLI tool to create password-protected ZIP files and perform brute-force recovery.  
-*Skills: Python file handling, cryptography, brute-force logic.*
-
-### 📖 [Py Dictionary CLI](https://github.com/Khanshs/py-dictionary-CLI)  
-Command-line bilingual dictionary with JSON storage.  
-*Skills: text processing, CLI design, data persistence.*
-
----
-
 ## 🤗 Fun Facts & Interests
 
 - 🐱 Cat lover, family-oriented  
